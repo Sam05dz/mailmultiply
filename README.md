@@ -12,9 +12,6 @@ You can generate mails and use it to mass signin a website, it saves output in "
 
 [Watch tutorial on youtube](https://www.youtube.com/channel/UCAdDJn4yWzQMJyKyRWne3qg)
 
-# Screenshot
-
-<img src="https://user-images.githubusercontent.com/46316908/136668700-2e4d6f4d-9b4c-4d4d-8eae-d6556449fc24.png" width="100%"></img>
 
 ## Installing and requirements
 
@@ -24,7 +21,7 @@ You can generate mails and use it to mass signin a website, it saves output in "
 ### Installing
 
 ```
-~ ❯❯❯ git clone https://github.com/3xploitGuy/mailmultiply.git
+~ ❯❯❯ git clone https://github.com/sam05dz/mailmultiply.git
 
 ~ ❯❯❯ cd mailmultiply
 
@@ -38,7 +35,7 @@ You can generate mails and use it to mass signin a website, it saves output in "
 ```
 $ apt-get install python
 
-$ git clone https://github.com/3xploitGuy/mailmultiply.git
+$ git clone https://github.com/sam05dz/mailmultiply.git
 
 $ cd mailmultiply
 
@@ -47,13 +44,6 @@ $ chmod +x mailmultiply.sh
 $ ./mailmultiply.sh
 ```
 
-## Contact
-
-[Gmail](mailto:sandeshyadavm46@gmail.com) </br>
-[Instagram](https://instagram.com/1n_only_sandy) </br>
-[Blog](https://virtualprivacy.blogspot.com) </br>
-[Website](https://sandeshyadav.000webhostapp.com) </br>
-[YouTube](https://www.youtube.com/channel/UCAdDJn4yWzQMJyKyRWne3qg)
 
 ## Disclaimer
 
@@ -61,4 +51,4 @@ Mail Multiply is created to help in penetration testing and it's not responsible
 
 ## License
 
-This work by [3xplotGuy](https://github.com/3xploitGuy) is licensed under the terms of the [MIT License](https://www.tldrlegal.com/l/mit).
+This work is licensed under the terms of the [MIT License](https://www.tldrlegal.com/l/mit).
