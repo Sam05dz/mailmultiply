@@ -16,7 +16,7 @@ ${White}| |  | | (_| | | | ${Red}| |  | | |_| | | |_| | |_) | | |_| |
 ${White}|_|  |_|\__,_|_|_| |_|  |_|\__,_|_|\__|_| .__/|_|\__, |
 ${White}                                        | |       __/ |
 ${White}     Hola! Create Unlimited Gmails      |_|      |___/ \n
-         \e[0;96mDeveloped by: ${Red}Sandesh (3xploitGuy)\n\n"
+         \e[0;96mDeveloped by: ${Red}hOuSs@m (s43iD)\n\n"
 }
 
 email () {
